@@ -28,7 +28,7 @@
     background-image: url("https://png.pngtree.com/background/20220718/original/pngtree-abstract-comic-sun-rays-background-picture-image_1657978.jpg");
     background-size:auto;
     background-repeat: no-repeat;
-    background-attachment:scroll;
+    background-attachment:initial;
     background-position:center;
   }
   
