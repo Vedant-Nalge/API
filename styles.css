@@ -26,7 +26,12 @@
   color: #666;
   line-height: 1.5;
 }
-body{
-  background: linear-gradient(to bottom, #8e9eab, #eef2f3);
-}
+ body {
+    background-image: url("https://png.pngtree.com/background/20220718/original/pngtree-abstract-comic-sun-rays-background-picture-image_1657978.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position:center;
+  }
+  
 
